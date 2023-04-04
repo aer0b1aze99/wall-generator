@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'FC Rebel';
+    src: url('FCRebelLight.woff2') format('woff2'),
+        url('FCRebelLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Rebel';
+    src: url('FCRebelItalic.woff2') format('woff2'),
+        url('FCRebelItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Rebel';
+    src: url('FCRebelLightItalic.woff2') format('woff2'),
+        url('FCRebelLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Rebel';
+    src: url('FCRebelLightItalic.woff2') format('woff2'),
+        url('FCRebelLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Rebel';
+    src: url('FCRebelItalic.woff2') format('woff2'),
+        url('FCRebelItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Rebel';
+    src: url('FCRebelLight.woff2') format('woff2'),
+        url('FCRebelLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Rebel';
+    src: url('FCRebelRegular.woff2') format('woff2'),
+        url('FCRebelRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Rebel';
+    src: url('FCRebelRegular.woff2') format('woff2'),
+        url('FCRebelRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

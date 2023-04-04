@@ -1,1 +1,1 @@
-# wall-generator
+# wall-text-generator
